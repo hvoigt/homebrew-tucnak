@@ -5,10 +5,10 @@
 class Tucnak < Formula
   desc "Tucnak - hamradio contest log"
   homepage "http://tucnak.nagano.cz/wiki/Main_Page"
-  url "http://tucnak.nagano.cz/tucnak-4.11.tar.gz"
-  sha256 "0aa1661a2a65d43218e9e17a373078efa417cabeeacfe25fa15f9c2840567946"
+  url "http://tucnak.nagano.cz/tucnak-4.30.tar.gz"
+  sha256 "96daf40dea2533b554d58ded7d9caca9d40f791486e31993194f1f26360535ab"
 
-  depends_on "libzia"
+  depends_on "hvoigt/tucnak/libzia"
 
   def install
     # ENV.deparallelize  # if your formula fails when building in parallel

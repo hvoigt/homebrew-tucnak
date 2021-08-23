@@ -5,8 +5,8 @@
 class Libzia < Formula
   desc "Library used for Hamradio logging software Tucnak"
   homepage "http://tucnak.nagano.cz/wiki/Main_Page"
-  url "http://tucnak.nagano.cz/libzia-4.11.tar.gz"
-  sha256 "39153c74bdf9b542b0295263500fe9fbbf9992a932a3c31c5b879c4d1d630094"
+  url "http://tucnak.nagano.cz/libzia-4.30.tar.gz"
+  sha256 "092052f5cd817c93026d49d617161d9c42a8e08d8e8114ef33620e1019e52f53"
 
   # depends_on "cmake" => :build
 

@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install hvoigt/tucnak/<formula>`
+`brew install hvoigt/tucnak/tucnak`
 
-Or `brew tap hvoigt/tucnak` and then `brew install <formula>`.
+Or `brew tap hvoigt/tucnak` and then `brew install tucnak`.
 
 ## Documentation
 
